@@ -69,8 +69,8 @@ Se você achou este plugin útil e ele te ajudou em seus projetos, considere apo
 
 Contribuições são muito bem-vindas! Se você tem uma sugestão de melhoria ou encontrou um bug, por favor:
 
-1.  **Abra uma Issue:** Descreva o bug ou a sua ideia na [página de Issues]([URL-DO-SEU-REPOSITORIO]/issues) do repositório.
-2.  **Envie um Pull Request:** Se você mesmo fez uma correção ou melhoria, sinta-se à vontade para enviar um [Pull Request]([URL-DO-SEU-REPOSITORIO]/pulls).
+1.  **Abra uma Issue:** Descreva o bug ou a sua ideia na [página de Issues](https://github.com/ricardochristovao/gla-link/issues) do repositório.
+2.  **Envie um Pull Request:** Se você mesmo fez uma correção ou melhoria, sinta-se à vontade para enviar um [Pull Request](https://github.com/ricardochristovao/gla-link/pulls).
 
 ## Capturas de Tela
 
