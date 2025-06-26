@@ -72,12 +72,6 @@ Contribuições são muito bem-vindas! Se você tem uma sugestão de melhoria ou
 1.  **Abra uma Issue:** Descreva o bug ou a sua ideia na [página de Issues](https://github.com/ricardochristovao/gla-link/issues) do repositório.
 2.  **Envie um Pull Request:** Se você mesmo fez uma correção ou melhoria, sinta-se à vontade para enviar um [Pull Request](https://github.com/ricardochristovao/gla-link/pulls).
 
-## Capturas de Tela
-
-*(É altamente recomendável adicionar algumas capturas de tela aqui para ilustrar o painel de controle e as opções de edição.)*
-
-* *Screenshot da página principal do plugin.*
-* *Screenshot da página de edição de um slug, mostrando todas as opções.*
 
 ## Registro de Alterações
 
