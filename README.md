@@ -90,4 +90,4 @@ Este plugin é distribuído sob a licença GPLv2 ou posterior.
 ## Autor
 
 * **Autor Original:** [Ricardo Christovão](https://github.com/ricardochristovao)
-* **Desenvolvimento e Melhorias:** Colaboração com a IA do Google.
+* **Desenvolvimento e Melhorias:** Colaboração com a IA para issues pontuais.
